@@ -31,7 +31,7 @@ public class Menu {
         int opcion = 0, menuAct = 0;
 
         //debug
-        Cliente cliente = new Cliente(1234, "Andres");
+        /*Cliente cliente = new Cliente(1234, "Andres");
         Cuenta cuenta = new Cuenta();
         cuenta.CrearTarjeta(new Tarjeta(1001));
         cliente.AgregarCuenta(cuenta);
@@ -67,7 +67,7 @@ public class Menu {
         GInv.AgregarProducto(new Producto(103, "Casa", 13, 150, 5, 1));
         GInv.AgregarProducto(new Producto(104, "Pato", 14, 40, 80, 20));
         GInv.AgregarProducto(new Producto(105, "Sopa", 15, 30, 100, 50));
-
+        */
 
         //ciclo de menús
         do{
